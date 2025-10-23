@@ -1,39 +1,41 @@
-# Shafikul Islam -Front end engineer looking for Remote role
+### Shafikul Islam - looking for Remote role 
 
-
-
-# Learning : Principle of backend programming | Aspiring goland engineer
+🔹Building intelligent backend systems with **AI integration** and **agentic automation flows**.
 
 **Location:** Dhaka, Bangladesh  
-[Resume](https://drive.google.com/file/d/1CD45Q50NQeTbq9TWdCCGNveKSNNiTKpG/view) &nbsp; [LinkedIn](https://www.linkedin.com/in/md-shafik-285a34370/) &nbsp; [GitHub](https://github.com/si-tanbir) &nbsp; [Portfolio](https://shafik-protfolio.vercel.app/) &nbsp; [Gmail](mailto:shafiktanbir@gmail.com)  &nbsp; [whatsapp](https://wa.me/+8801630083582)  
+ &nbsp; [LinkedIn](https://www.linkedin.com/in/md-shafik-285a34370/) &nbsp; [GitHub](https://github.com/si-tanbir) &nbsp; [Portfolio](https://shafik-protfolio.vercel.app/) &nbsp; [Gmail](mailto:shafiktanbir@gmail.com)  &nbsp; [whatsapp](https://wa.me/+8801630083582)  
 
 ---
 
-## Professional Summary
+### 🧠 Summary  
+I’m a backend-focused developer with **1.5 years of hands-on experience**, passionate about creating scalable and intelligent systems.  
+My current work revolves around **integrating AI models**, **designing agentic flow**, and **building reliable backend** that power automation and smart decision-making.  
+I enjoy **solving complex problems**, **optimizing performance**, and **bridging AI capabilities** with real-world applications to deliver impactful, data-driven solutions.
+ 
 
-Front end Developer with around 1 year of experience, specializing in building scalable back-end systems using Express.js, MongoDB, and Docker. Also proficient in creating responsive, user-focused front-ends with React.js and Next.js. Driven by a passion for solving real-world problems and delivering impactful solutions in fast-paced environments.
+🔹 Skilled in: Golang ,Node.js, REST APIs, Automation Flows, and Cloud Integration  
+🔹 Interested in: AI Agents, Workflow Orchestration, and System Design  
+🔹 Open to: Remote opportunities in AI Engineering & Backend Development  
 
----
 
-## Technical Skills
 
-- JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass, React.js, Next.js, Express.js, Tailwind CSS
-
-**Soft Skills**
-
-- Problem-solving, team collaboration, time management
+###  Core Professional Skills  
+- **Problem Solving & Critical Thinking**  
+- **Communication & Collaboration**  
+- **Time Management & Task Prioritization**  
+- **Adaptability & Continuous Learning**  
 
 ---
 
 ## Work Experience
 
-### **Full-Stack Developer**
+### **Full-Stack Developer (backend-focused)**
 **Digital Gregg**, Remote  
 *Jan 2025 – aug 2025*
 
 - Developed and maintained full-stack web applications using React.js, Next.js, and Express.js, integrating MongoDB for efficient data management.
 - Built and optimized RESTful APIs with Node.js and Express.js, improving server response times by 15% and ensuring seamless front-end integration.
-- Conducted thorough testing and debugging of front-end and back-end components, enhancing application performance and user satisfaction.
+- Conducted thorough testing and debugging of  back-end components, enhancing application performance and user satisfaction.
 
 ### **Full-Stack Developer Intern (Frontend-Focused)**
 **Tunnel**, Remote  
