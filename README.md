@@ -3,7 +3,7 @@
 🔹Building intelligent backend systems with **AI integration** and **agentic automation flows**.
 
 **Location:** Dhaka, Bangladesh  
- &nbsp; [LinkedIn](https://www.linkedin.com/in/md-shafik-285a34370/) &nbsp; [GitHub](https://github.com/si-tanbir) &nbsp; [Portfolio](https://shafik-protfolio.vercel.app/) &nbsp; [Gmail](mailto:shafiktanbir@gmail.com)  &nbsp; [whatsapp](https://wa.me/+8801630083582)  
+ &nbsp; [LinkedIn](https://www.linkedin.com/in/md-shafik-285a34370/) &nbsp; [GitHub](https://github.com/si-tanbir) &nbsp; [Portfolio](https://shafik-protfolio.vercel.app/) &nbsp; [Gmail](mailto:shafiktanbir@gmail.com)  &nbsp;  
 
 ---
 
