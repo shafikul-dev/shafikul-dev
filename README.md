@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 Summary  
-I’m a backend-focused developer with **1.5 years of hands-on experience**, passionate about creating scalable and intelligent systems.  
+I’m a backend-focused developer with **~3 years of hands-on experience**, passionate about creating scalable and intelligent systems.  
 My current work revolves around **integrating AI models**, **designing agentic flow**, and **building reliable backend** that power automation and smart decision-making.  
 I enjoy **solving complex problems**, **optimizing performance**, and **bridging AI capabilities** with real-world applications to deliver impactful, data-driven solutions.
  
@@ -31,7 +31,7 @@ I enjoy **solving complex problems**, **optimizing performance**, and **bridging
 
 ### **Full-Stack Developer (backend-focused)**
 **Digital Gregg**, Remote  
-*Jan 2025 – aug 2025*
+*Jan 2025 – Sep 2025*
 
 - Developed and maintained full-stack web applications using React.js, Next.js, and Express.js, integrating MongoDB for efficient data management.
 - Built and optimized RESTful APIs with Node.js and Express.js, improving server response times by 15% and ensuring seamless front-end integration.
@@ -44,6 +44,11 @@ I enjoy **solving complex problems**, **optimizing performance**, and **bridging
 - Contributed to full-stack development of client projects, building front-end interfaces with React.js and Tailwind CSS and back-end APIs with Express.js.
 - Designed and implemented MongoDB schemas and queries to support dynamic data retrieval, improving application scalability and performance.
 - Debugged and resolved issues across the stack, enhancing application reliability and user experience.
+
+Freelance Developer | Remote | Jan 2023 – Jul 2024
+- Delivered 15+ client projects, ranging from small business websites to production‐ready e‐commerce platforms..
+- Improved API response times by 30% for a client’s booking system.
+- Implemented authentication (JWT) and caching with Redis, improving performance and security.
 
 ---
 
